@@ -1,6 +1,6 @@
 # Tetris Applesoft BASIC
 
-I built this Tetris game on Applesoft BASIC with my dad. He used to own an Apple II back in the 70s/80s. It was fun to see how Software was developed back in the day, it really makes you appreciate the tools that make the job simple nowadays.
+I built this Tetris game with Applesoft BASIC with my dad. He used to own an Apple II back in the 70s/80s. It was fun to see how Software was developed back in the day, it really makes you appreciate the tools that make the job simple nowadays.
 
 ## How to use:
 
